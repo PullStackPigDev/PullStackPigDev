@@ -6,7 +6,7 @@
   "op": 11,
   "d": [
     "I understand JavaScript Syntax ( JSX ) rather than actual English words due to the large amount of programming I have experienced."
-  ].
+  ],
   "s": null
 }
 ```
