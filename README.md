@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**LIFE HACK** To get infinite benefits just tell your schoolmates to signup for github and steal their benefits.
+
 ```json
 {
   "t": "I am trying to get my high school credits bro",
