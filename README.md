@@ -21,9 +21,12 @@ I may sound like I know a lot, but inside I'm very stupid !WARNING!
 
 I'm looking to collaborate and contribute to open source projects including concurrency, data management, optimizing algorithms and UIs although I am completely trash at it.
 
-Languages I am familiar with:
+**Languages I am familiar with:**
+
 Python, JavaScript, TypeScript, Brainf\*\*k
-Languages I am learning:
+
+**Languages I am learning:**
+
 C++, Golang, Swift, SQL
 Languages I'm planning to learn:
 Rust (Sys), C (Sys), C# (.NET), Kotlin (JVM), Solidity (Blockchain), Dart (Flutter), Racket ( Esoteric & Waterloo ), ASM ( Very low level dev), Linux Shell ( Servers )
