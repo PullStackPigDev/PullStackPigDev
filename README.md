@@ -28,8 +28,12 @@ Python, JavaScript, TypeScript, Brainf\*\*k
 **Languages I am learning:**
 
 C++, Golang, Swift, SQL
-Languages I'm planning to learn:
+
+**Languages I'm planning to learn:**
 Rust (Sys), C (Sys), C# (.NET), Kotlin (JVM), Solidity (Blockchain), Dart (Flutter), Racket ( Esoteric & Waterloo ), ASM ( Very low level dev), Linux Shell ( Servers )
+
+**How to reach me**
+Discord: undefined++#9999
 
 <!--
 **PullStackPigDev/PullStackPigDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
