@@ -50,12 +50,19 @@ Git Version Control, GitHub, Chrome Extension API
 **How to reach me:**
 
 Discord: UNSTABLE USERNAME
+
 Twitter: NEVER CHECK
+
 Email: NEVER CHECK
+
 GitHub Issues: ✅
+
 GitHub PRs with new txt file: ✅
+
 Breaking my projects to get my attention: ✅
+
 Contact NastyPigz to reach me: ✅
+
 https://github.com/NastyPigz
 
 <!--
