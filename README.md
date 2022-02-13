@@ -49,7 +49,14 @@ Git Version Control, GitHub, Chrome Extension API
 
 **How to reach me:**
 
-Discord: undefined++#9999
+Discord: UNSTABLE USERNAME
+Twitter: NEVER CHECK
+Email: NEVER CHECK
+GitHub Issues: ✅
+GitHub PRs with new txt file: ✅
+Breaking my projects to get my attention: ✅
+Contact NastyPigz to reach me: ✅
+https://github.com/NastyPigz
 
 <!--
 **PullStackPigDev/PullStackPigDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
