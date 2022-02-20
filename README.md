@@ -13,7 +13,7 @@
 
 I'm currently working on getting better in school in fields of Mathematics, Physics, Chemistry, English & Literacy, Biology and Computer Science.
 
-I am learning Next.js, Django, Algorithms and Data Structures with C++, Golang, VB.NET, CCC, CEMC, Hackathons, Low-Level and Sys Dev, ML with Tensorflow or Pytorch, SQL ( mainly Postgres ) and working with APIs. I'd love to learn anything related to programming!
+I am learning Next.js, Django, Algorithms and Data Structures with C++, Golang, VB6.0, CCC, CEMC, Hackathons/Code Jams, Low-Level and Sys Dev, Data Analysis with Pandas, Numpy and Matplotlib, AI/ML with Tensorflow or Pytorch, SQL ( mainly Postgres and MySQL ) and working with REST/GraphQL APIs. I'd love to learn anything related to programming!
 
 I may sound like I know a lot, but inside I'm very stupid !WARNING!
 
@@ -25,7 +25,7 @@ Python 3.6-3.10, JavaScript ES5-6, TypeScript, Brainf\*\*k, CSS 3, HTML 5, Markd
 
 **Languages I am learning:**
 
-C++, Golang, Swift, SQL
+C++, Golang, Swift, SQL, Microsoft Visual Basic 6
 
 **Languages I'm planning to learn:**
 
@@ -35,15 +35,21 @@ Rust (Sys), C (Sys), C# (.NET), Kotlin (JVM), Solidity (Blockchain), Dart (Flutt
 
 JavaScript Web Dev:
 
-React.js, Next.js, Redux.js, Tailwind CSS, SCSS/SASS, Styled Components, CSS-in-JS, Material UI, Express.js
+React.js, Next.js, Redux.js, Tailwind CSS, SCSS/SASS, Styled Components, CSS-in-JS, Chakra UI, Express.js
 
 Python In General:
 
-Django (REST, simpleJWT, channels and setup), asyncIO, aiohttp, concurrent, asyncpg, aiosqlite, pymongo, Flask, discord.py
+Django (REST, simpleJWT, channels, database migrations), asyncIO, aiohttp, concurrent, asyncpg, aiosqlite, pymongo, Flask, discord.py and etc.
 
 **Tools I know how to use**
 
 Git Version Control, GitHub, Chrome Extension API
+
+**Cloud Services I use**
+
+Vercel, Netlify, Railway, Heroku, CloudFlare
+
+( I want to learn about AWS, GCS and Digital Ocean but unfortunately don't have the funding )
 
 **How to reach me:**
 
