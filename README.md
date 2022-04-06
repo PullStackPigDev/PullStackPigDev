@@ -21,29 +21,37 @@ I'm looking to collaborate and contribute to open source projects including conc
 
 **Languages I am familiar with: (including Markup Langs and other file formats)**
 
-Python 3.6-3.10, JavaScript ES5-6, TypeScript, Brainf\*\*k, CSS 3, HTML 5, Markdown Syntax, JSON
+Python 3.6-3.10, JavaScript ES5-6, TypeScript, Brainf\*\*k, CSS 3, HTML 5, Markdown Syntax, JSON, Golang
 
 **Languages I am learning:**
 
-C++, Golang, Swift, SQL, Microsoft Visual Basic 6
+C++, Rust, Swift, MySQL + PostgreSQL + Vitess, Microsoft Visual Basic 6
 
 **Languages I'm planning to learn:**
 
-Rust (Sys), C (Sys), C# (.NET), Kotlin (JVM), Solidity (Blockchain), Dart (Flutter), Racket ( Esoteric & Waterloo ), ASM ( Very low level dev), Linux Shell ( Servers )
+C (Sys), C# (.NET), Kotlin (JVM), Solidity (Blockchain), Dart (Flutter), Racket ( Scheme & Waterloo ), ASM ( Very low level dev)
 
 **Frameworks I know**
 
 JavaScript Web Dev:
 
-React.js, Next.js, Redux.js, Tailwind CSS, SCSS/SASS, Styled Components, CSS-in-JS, Chakra UI, Express.js
+React.js, Next.js, Redux.js, Tailwind CSS, SCSS/SASS, Styled Components, CSS-in-JS, Chakra UI, Express.js, Socket.IO
 
 Python In General:
 
-Django (REST, simpleJWT, channels, database migrations), asyncIO, aiohttp, concurrent, asyncpg, aiosqlite, pymongo, Flask, discord.py and etc.
+Django (REST, simpleJWT, channels, database migrations), asyncIO, aiohttp, concurrent, asyncpg, aiosqlite, pymongo, Flask, discord.py, pandas and etc.
+
+Rust:
+
+Actix, Actix-web, Actix-web-actors
+
+Go:
+
+net/http, Gorilla
 
 **Tools I know how to use**
 
-Git Version Control, GitHub, Chrome Extension API
+Git Version Control, GitHub, Chrome Extension API, Docker
 
 **Cloud Services I use**
 
