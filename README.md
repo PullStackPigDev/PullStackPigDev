@@ -13,7 +13,7 @@
 
 I'm currently working on getting better in school in fields of Mathematics, Physics, Chemistry, English & Literacy, Biology and Computer Science.
 
-I am learning Next.js, Django, Algorithms and Data Structures with C++, Golang, VB6.0, CCC, CEMC, Hackathons/Code Jams, Low-Level and Sys Dev, Data Analysis with Pandas, Numpy and Matplotlib, AI/ML with Tensorflow or Pytorch, SQL ( mainly Postgres and MySQL ) and working with REST/GraphQL APIs. I'd love to learn anything related to programming!
+I am learning Next.js, Actix.rs, Algorithms and Data Structures with C++, Golang, VB6.0, CCC & Competitive Programming, Math skills in CEMC, gainging team and devops experiences from Hackathons/Code Jams, learning Low-Level and Sys Dev, Data Analysis with Pandas, Numpy and Matplotlib, AI/ML with Tensorflow or Pytorch, SQL ( mainly Postgres and MySQL ) and working with REST/GraphQL APIs. I'd love to learn anything related to programming!
 
 I may sound like I know a lot, but inside I'm very stupid !WARNING!
 
@@ -21,7 +21,7 @@ I'm looking to collaborate and contribute to open source projects including conc
 
 **Languages I am familiar with: (including Markup Langs and other file formats)**
 
-Python 3.6-3.10, JavaScript ES5-6, TypeScript, Brainf\*\*k, CSS 3, HTML 5, Markdown Syntax, JSON, Golang
+Python 3.6-3.10, JavaScript ES5-12, TypeScript, Brainf\*\*k, CSS 3, HTML 5, Markdown Syntax, JSON, Golang
 
 **Languages I am learning:**
 
