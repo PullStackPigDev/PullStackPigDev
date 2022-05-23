@@ -37,13 +37,15 @@ JavaScript Web Dev:
 
 React.js, Next.js, Redux.js, Tailwind CSS, SCSS/SASS, Styled Components, CSS-in-JS, Chakra UI, Express.js, Socket.IO
 
+Note: Ditching Chakra for Stitches
+
 Python In General:
 
 Django (REST, simpleJWT, channels, database migrations), asyncIO, aiohttp, concurrent, asyncpg, aiosqlite, pymongo, Flask, discord.py, pandas and etc.
 
 Rust:
 
-Actix, Actix-web, Actix-web-actors
+Actix ... , sqlx, Argon2, serde
 
 Go:
 
