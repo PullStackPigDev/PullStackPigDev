@@ -2,14 +2,16 @@
 
 ```json
 {
-  "t": "High School Student completing his credits",
+  "t": "Canadian High School Student completing his credits",
   "op": 11,
   "d": [
-    "I can understand code better than plain English"
+    "I can understand code better than plain English!"
   ],
   "s": null
 }
 ```
+
+Note: I am still training myself in terms of Competitive Programming. If you have tips please LMK!
 
 I'm currently working on getting better in school in fields of Mathematics, Physics, Chemistry, English & Literacy, Biology and Computer Science.
 
@@ -35,9 +37,7 @@ C (Sys), C# (.NET), Kotlin (JVM), Solidity (Blockchain), Dart (Flutter), Racket 
 
 JavaScript Web Dev:
 
-React.js, Next.js, Redux.js, Tailwind CSS, SCSS/SASS, Styled Components, CSS-in-JS, Chakra UI, Express.js, Socket.IO
-
-Note: Ditching Chakra for Stitches
+React.js, Next.js, Redux.js, Tailwind CSS, SCSS/SASS, Stitches.js, CSS-in-JS, Chakra UI, Express.js, Socket.IO
 
 Python In General:
 
@@ -45,7 +45,9 @@ Django (REST, simpleJWT, channels, database migrations), asyncIO, aiohttp, concu
 
 Rust:
 
-Actix ... , sqlx, Argon2, serde
+Actix-web ... , sqlx, Argon2, serde, serde_json, serde_cbor, a lot more
+
+(have experience with actix legacy actor framework...)
 
 Go:
 
@@ -57,7 +59,7 @@ Git Version Control, GitHub, Chrome Extension API, Docker
 
 **Cloud Services I use**
 
-Vercel, Netlify, Railway, Heroku, CloudFlare
+Vercel, Netlify, Railway, Heroku, CloudFlare, Fly.io
 
 ( I want to learn about AWS, GCS and Digital Ocean but unfortunately don't have the funding )
 
