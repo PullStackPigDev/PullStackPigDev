@@ -17,9 +17,7 @@ I'm currently working on getting better in school in fields of Mathematics, Phys
 
 I am learning Next.js, Actix.rs, Algorithms and Data Structures with C++, Golang, VB6.0, CCC & Competitive Programming, Math skills in CEMC, gainging team and devops experiences from Hackathons/Code Jams, learning Low-Level and Sys Dev, Data Analysis with Pandas, Numpy and Matplotlib, AI/ML with Tensorflow or Pytorch, SQL ( mainly Postgres and MySQL ) and working with REST/GraphQL APIs. I'd love to learn anything related to programming!
 
-I may sound like I know a lot, but inside I'm very stupid !WARNING!
-
-I'm looking to collaborate and contribute to open source projects including concurrency, data management, optimizing algorithms and UIs although I am completely trash at it.
+I'm looking to collaborate and contribute to open source projects including concurrency, data management, optimizing algorithms and UIs.
 
 **Languages I am familiar with: (including Markup Langs and other file formats)**
 
@@ -35,13 +33,13 @@ C (Sys), C# (.NET), Kotlin (JVM), Solidity (Blockchain), Dart (Flutter), Racket 
 
 **Frameworks I know**
 
-JavaScript Web Dev:
+JavaScript Web Dev: (Although I generally prefer typescript)
 
-React.js, Next.js, Redux.js, Tailwind CSS, SCSS/SASS, Stitches.js, CSS-in-JS, Chakra UI, Express.js, Socket.IO
+React.js, Next.js, Redux.js, Tailwind CSS, SCSS/SASS, Stitches.js, CSS-in-JS, Chakra UI, Express.js, Socket.IO, SvelteKit, Svelte
 
 Python In General:
 
-Django (REST, simpleJWT, channels, database migrations), asyncIO, aiohttp, concurrent, asyncpg, aiosqlite, pymongo, Flask, discord.py, pandas and etc.
+Django (REST, simpleJWT, channels, database migrations), pillow + opencv, asyncIO, aiohttp, concurrent, asyncpg, aiosqlite, pymongo, Flask, discord.py, pandas and etc.
 
 Rust:
 
