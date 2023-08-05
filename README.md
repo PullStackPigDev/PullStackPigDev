@@ -13,9 +13,11 @@
 
 Note: I am still training myself in terms of Competitive Programming. If you have tips please LMK!
 
-I'm currently working on getting better in school in fields of Mathematics, Physics, Chemistry, English & Literacy, Biology and Computer Science.
+I'm currently working on getting better in school in fields of Mathematics, Physics, Chemistry, English & Literacy, and Computer Science.
 
-I am learning Next.js, Actix.rs, Algorithms and Data Structures with C++, Golang, VB6.0, CCC & Competitive Programming, Math skills in CEMC, gainging team and devops experiences from Hackathons/Code Jams, learning Low-Level and Sys Dev, Data Analysis with Pandas, Numpy, Seaborn and Matplotlib, ML with sklearn, ML/AI with Tensorflow or Pytorch, SQL ( mainly Postgres and MySQL ) and working with REST APIs. I'd love to learn anything related to programming!
+I am learning Actix.rs, Statisical analysis and Machine learning, Algorithms and Data Structures with C++, VB6.0, CCC & Competitive Programming, Math skills in CEMC, gaining team and devops experiences from Hackathons/Code Jams, Data Analysis with Pandas, Numpy, Seaborn and Matplotlib, ML with sklearn, ML/AI with Tensorflow or Pytorch, SQL ( mainly PostgreSQL) and working with REST APIs. I'd love to learn anything related to programming!
+
+Note: I no longer lke Golang, GraphQL, and React/Next.js. Although I do have existing experience with them, easy to pick it back up.
 
 I'm looking to collaborate and contribute to open source projects including concurrency, data management, optimizing algorithms and UIs.
 
