@@ -2,7 +2,7 @@
 
 ```json
 {
-  "t": "Canadian High School Student completing his credits",
+  "t": "Computer Engineering Student at University of Waterloo",
   "op": 11,
   "d": [
     "I can understand code better than plain English!"
